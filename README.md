@@ -24,5 +24,5 @@ Passionate about learning programming and building practical projects.
 
 ### How to reach me?
 
-📧 Email: Your Email
-💼 LinkedIn: Your LinkedIn Profile
+📧 Email: 
+💼 LinkedIn: 
